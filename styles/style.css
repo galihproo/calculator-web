@@ -82,12 +82,15 @@ body {
 
 .history h2 {
     color: #333;
+    font-weight: bold;
+    font-size: 22px;
 }
 
 table {
     border-spacing: 0;
     width: 100%;
     border-radius: 20px;
+    color: #333;
 }
 
 th,
